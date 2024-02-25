@@ -1,4 +1,6 @@
 ###                          													       Hi there 👋, I am Saliya Wijebandara
+![working](https://github.com/saliya1000/saliya1000/assets/63992873/217f8343-4cd0-4c02-932f-9c438b1fc650)
+
 
 ### My Portfolio - https://prortfiliowebdesign.netlify.app
 <I>Some samples.....</I> <br>
@@ -7,6 +9,7 @@ Snake Game - https://snakegamesam.netlify.app/  <br>
 Pong Game - https://ponggamesam.netlify.app/  <br>
 QR Code Gen - https://qrcodegenaratorurl.netlify.app/  <br>
 Landing Page - https://samplewebs1.netlify.app  <br>
+
 <!--
 **saliya1000/saliya1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
