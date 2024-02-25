@@ -1,5 +1,8 @@
 ###                          													       Hi there 👋, I am Saliya Wijebandara
 
+
+Some samples.....
+Weather App - https://weatherappapi1.netlify.app/
 <!--
 **saliya1000/saliya1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
