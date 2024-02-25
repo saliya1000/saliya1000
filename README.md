@@ -1,7 +1,7 @@
 ###                          													       Hi there 👋, I am Saliya Wijebandara
 
 ### My Portfolio - https://prortfiliowebdesign.netlify.app
-Some samples.....
+<I>Some samples.....</I> <br>
 Weather App - https://weatherappapi1.netlify.app/ <br>
 Snake Game - https://snakegamesam.netlify.app/  <br>
 Pong Game - https://ponggamesam.netlify.app/  <br>
