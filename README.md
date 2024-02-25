@@ -2,7 +2,7 @@
 
 ### My Portfolio - https://prortfiliowebdesign.netlify.app
 Some samples.....
-Weather App - https://weatherappapi1.netlify.app/
+Weather App - https://weatherappapi1.netlify.app/ <br>
 Snake Game - https://snakegamesam.netlify.app/
 Pong Game - https://ponggamesam.netlify.app/
 QR Code Gen - https://qrcodegenaratorurl.netlify.app/
