@@ -3,7 +3,7 @@
 
 
 
-### My Portfolio - https://prortfiliowebdesign.netlify.app
+### My Portfolio - https://saliyadev.com
 <I>Some samples.....</I> <br>
 Weather App - https://weatherappapi1.netlify.app/ <br>
 Snake Game - https://snakegamesam.netlify.app/  <br>
