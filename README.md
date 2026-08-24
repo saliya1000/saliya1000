@@ -3,7 +3,7 @@
 
 
 
-### My Portfolio - https://saliyadev.com
+### My Portfolio - https://saliya.dev
 
 <I>Some samples.....</I> <br>
 Fight game (multi player) - https://fight.saliyadev.com <br>
