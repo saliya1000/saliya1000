@@ -5,15 +5,7 @@
 
 ### My Portfolio - https://saliya.dev
 
-<I>Some samples.....</I> <br>
-Fight game (multi player) - https://fight.saliyadev.com <br>
-SaaS Project (Business) -  https://promori.saliyadev.com <br>
-Dating App -  https://dating.saliyadev.com <br>
-Weather App - https://weatherappapi1.netlify.app/ <br>
-Snake Game - https://snakegamesam.netlify.app/  <br>
-Pong Game - https://ponggamesam.netlify.app/  <br>
-QR Code Gen - https://qrcodegenaratorurl.netlify.app/  <br>
-Landing Page - https://samplewebs1.netlify.app  <br>
+
 
 
 <!--
